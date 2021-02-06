@@ -25,5 +25,10 @@
         "symfony/polyfill-php73": "^1.22",
         "symfony/var-dumper": "^5.2",
         "symfony/http-kernel": "^5.2"
-    }
+    },
+	"extra": {
+        "branch-alias": {
+            "dev-master": "7.x-dev"
+        }
+    },
 }
