@@ -30,5 +30,5 @@
         "branch-alias": {
             "dev-master": "7.x-dev"
         }
-    },
+    }
 }
