@@ -1,4 +1,19 @@
 {
+  "name": "kitman/framework",
+    "description": "The kitman Framework.",
+    "keywords": ["framework", "kitman"],
+    "license": "MIT",
+    "homepage": "https://kitmanyiu.com",
+    "support": {
+        "issues": "https://github.com/kitman20022002/my-first-package/issues",
+        "source": "https://github.com/kitman20022002/my-first-package"
+    },
+    "authors": [
+        {
+            "name": "Kitman Yiu",
+            "email": "kitmanyiu.com"
+        }
+    ],
     "require": {
         "symfony/finder": "^5.2",
         "symfony/mime": "^5.2",
